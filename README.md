@@ -1,5 +1,7 @@
 # Microtonal software
 
+- fluid-xenth: https://github.com/Woyten/tune/tree/master/fluid-xenth
+  - Microtonal soundfont renderer
 - harmoxen (Druid, moves to Iced): https://github.com/Azorlogh/harmoxen
   - Microtonal piano roll editor
 - johnston: https://github.com/jcpst/johnston
@@ -7,7 +9,7 @@
 - microwave (Nannou, moves to ???): https://github.com/Woyten/tune/tree/master/microwave
   - First-class microtonal support
   - DAW-as-code approach
-  - Output via modular synth, FluidSynth or MIDI
+  - Output via modular synth, Fluidlite or MIDI
 - regular_rust: https://github.com/x31eq/regular_rust
   - Microtonal theory / temperament finder
 - tune: https://github.com/Woyten/tune
