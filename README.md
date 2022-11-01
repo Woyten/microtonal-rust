@@ -5,8 +5,13 @@
   - Microtonal soundfont renderer
 - Harmoxen (Druid, moves to Iced): https://github.com/Azorlogh/harmoxen
   - Microtonal piano roll editor
+  - Inactivity > 1 year
 - Johnston: https://github.com/jcpst/johnston
   - Microtonal theory / lattices
+  - Inactivity > 1 year
+- magnetron: https://github.com/Woyten/tune/tree/master/magnetron
+  - WIP synthesizer library with first-class microtonal support
+  - Free modular architecture with custom automations
 - microwave (Nannou, moves to ???): https://github.com/Woyten/tune/tree/master/microwave
   - First-class microtonal support
   - DAW-as-code approach
@@ -26,24 +31,26 @@
 # Synthesizers without microtonal focus
 
 - Overview: https://github.com/topics/synthesizer?l=rust
+- FunDSP: https://github.com/SamiPerttu/fundsp
+  - Comprehensive audio processing and synthesis library
 - Glicol (JavaScript/WASM): https://github.com/chaosprint/glicol
   - Web-based sequencer/synthesizer with own DSL
   - Graph-based synthesis
+- HexoSynth: https://github.com/WeirdConstructor/HexoSynth
+  - Graphical modular synthesizer
 - Kiro Synth (Druid): https://github.com/chris-zen/kiro-synth
   - GUI showcase
   - DST examples
-  - Seems abandoned
+  - Inactivity > 2 years
 - OctaSine (Iced): https://github.com/greatest-ape/OctaSine
   - GUI showcase
   - VST integration
 - Oscen: https://github.com/reedrosenbluth/oscen
   - DST examples
   - Modular but with poor performance
-  - Seems abandonend
+  - Inactivity > 2 years
 - Ruffbox (JavaScript/WASM): https://github.com/the-drunk-coder/ruffbox
   - Web-based sequencer/synthesizer with own DSL
   - Presented at [RustFest Barcelona 2019](https://www.youtube.com/watch?v=fCFPl2LrzJc)
-  - Seems abandoned
 - Twang: https://github.com/AldaronLau/twang
   - DST examples
-  - Very WIP
