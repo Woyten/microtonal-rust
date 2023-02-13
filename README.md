@@ -12,7 +12,7 @@
 - magnetron: https://github.com/Woyten/tune/tree/master/magnetron
   - WIP synthesizer library with first-class microtonal support
   - Free modular architecture with custom automations
-- microwave (Nannou, moves to ???): https://github.com/Woyten/tune/tree/master/microwave
+- microwave (Bevy): https://github.com/Woyten/tune/tree/master/microwave
   - First-class microtonal support
   - DAW-as-code approach
   - Output via modular synth, FluidLite or MIDI
